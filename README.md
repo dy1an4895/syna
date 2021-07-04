@@ -1,2 +1,4 @@
 # syna
-syna bot for discord
+
+
+syna bot code used to make discord bot "Syna"
